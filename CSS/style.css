@@ -1,0 +1,12 @@
+body {
+  text-align: center;
+  color: white;
+  font-family: "Times New Roman", Times, serif;
+  background: linear-gradient(to right, red, blue);
+}
+#colValue {
+  display: block;
+  text-align: center;
+  padding-top: 10px;
+  color: white;
+}
